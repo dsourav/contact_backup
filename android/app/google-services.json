@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "359862863835",
+    "firebase_url": "https://contact-backup-707e8.firebaseio.com",
+    "project_id": "contact-backup-707e8",
+    "storage_bucket": "contact-backup-707e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359862863835:android:2d88c4ad2a956eb6",
+        "android_client_info": {
+          "package_name": "com.example.contactbackup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359862863835-7komv6gb67mmhp5ib4crh1t8kj1v32f2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contactbackup",
+            "certificate_hash": "79a2145da5b812395eee32f5928f4d029802efa3"
+          }
+        },
+        {
+          "client_id": "359862863835-s3jefr1rhe1vqijcb1gduenhne46l5pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRthbxBQJXz7-cLliFw-b4P1RhOXr_X1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359862863835-s3jefr1rhe1vqijcb1gduenhne46l5pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
